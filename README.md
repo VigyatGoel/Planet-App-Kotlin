@@ -12,7 +12,7 @@ It is made in Kotlin
 
 ## Requirements
 
-- jdk 17 or above
+- jdk 8 or above
 - Android Studio
 
 ## Installation
